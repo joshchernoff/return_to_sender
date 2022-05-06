@@ -3,7 +3,7 @@
 A call bot to call back the people who keep calling you. 
 I made this bot because I kept getting solicitation calls even though I've asked countless times for them to stop calling me. My phone would ring from a different number each time so it would not matter if I blocked it. 3 times a day they would call and even just hang up on me. 
 
-So I created a return to sender. If these people can call me and harassing me calling several times a day then why would  I not do the same to them. 
+So I created a return to sender. If these people can call me and harass me calling several times a day then why would  I not do the same to them.
 
 This application is strictly for learning purposes, you take full and independent responsibility for using this app, I give no warranty or any support at all. Use at your own will. Be aware that using this app in maybe in violation of the law depending on your location. You should understand the risks involved before using this.
 
