@@ -25,6 +25,35 @@ my_number_pool = [
   "+15555555555"
 ]
 ```
+A note about the functions in `.iex.es`
+We use `Enum.zip` to stitch the two list together. This requires you have an equal number of items in each list. 
+
+For example you have a much bigger list of one vs the other. Just duplicate rows to make them equal in size. 
+Example. 
+
+```
+bad_people_phone_numbers = [
+  "+11111111111",
+  "+22222222222",
+  "+33333333333"
+]
+
+my_number_pool = [
+  "+6666666666",
+  "+6666666666",
+  "+5555555555",
+]
+```
+
+Noticed I just duplicated the `6666666666` number. Thats because this will be the output of `call_numbers`
+```
+[
+  {"+11111111111", "+6666666666"}, 
+  {"+22222222222", "+6666666666"},
+  {"+33333333333", "+5555555555"}
+]
+```
+
 
 Provide a list of number to which you will be calling from from your twilio account and provide a list of number that you will be calling. 
 
