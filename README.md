@@ -5,7 +5,7 @@ I made this bot because I kept getting solicitation calls even though I've asked
 
 So I created a return to sender. If these people can call me and harass me calling several times a day then why would  I not do the same to them.
 
-This application is strictly for learning purposes, you take full and independent responsibility for using this app, I give no warranty or any support at all. Use at your own will. Be aware that using this app in maybe in violation of the law depending on your location. You should understand the risks involved before using this.
+This application is strictly for learning purposes, you take full and independent responsibility for using this app, I give no warranty or any support at all. Use at your own will. Be aware that using this app maybe in violation of the law depending on your location. You should understand the risks involved before using this.
 
 ## Instructions. 
 Go get a twilio account and provide the replacement for the fixme in the `.env` file. 
