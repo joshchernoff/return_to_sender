@@ -55,7 +55,7 @@ Noticed I just duplicated the `6666666666` number. Thats because this will be th
 ```
 
 
-Provide a list of number to which you will be calling from from your twilio account and provide a list of number that you will be calling. 
+Provide a list of number to which you will be calling from your twilio account and provide a list of number that you will be calling. 
 
 From there before you run the application source your `.env` file to include your Env vars. 
 ```
